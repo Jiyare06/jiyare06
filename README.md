@@ -35,6 +35,3 @@ Computer Science undergrad at BIT Mesra, building at the intersection of AI/ML a
 - C++ (OOP), Python, JavaScript, HTML/CSS · React, Next.js, Node.js, Express.js, TypeScript, MongoDB · Data Structures & Algorithms, Operating Systems, Computer Networks, AI & ML.
 
 ---
-
-#### Activity
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Jiyare06&theme=minimal&hide_border=true&area=false)
