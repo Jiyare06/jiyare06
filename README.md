@@ -20,7 +20,7 @@ Computer Science undergrad at BIT Mesra, building at the intersection of AI/ML a
 
 **Achievements**
 - Flipkart Gridlock 2.0 — National semi-finalist.
-- 500+ DSA problems solved across multiple platforms.
+- 700+ DSA problems solved across multiple platforms.
 - Codeforces Specialist — contest rating 1446.
 
 **Position of Responsibility**
