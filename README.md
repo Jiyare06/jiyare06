@@ -53,22 +53,11 @@ Traffic intelligence for Bengaluru: predict congestion, report incidents, find a
 `React` `FastAPI` `PostgreSQL` `Redis` `XGBoost` `CatBoost` `SHAP` `Gemini`
 
 </td>
-<td width="50%" valign="top">
 
-<a href="https://github.com/Jiyare06?tab=repositories"><img src="assets/projects/blogit.png" width="100%" alt="BlogIt admin dashboard" /></a>
-
-#### ✍️ [BlogIt](https://github.com/Jiyare06?tab=repositories)
-A blogging platform where admins run the publishing flow. Give it a topic and Gemini drafts the post; comments go through approval before they show up.
-
-Includes **analytics and moderation dashboards**, JWT auth and ImageKit image optimisation.
-
-`React` `Node.js` `Express` `MongoDB` `Gemini` `ImageKit`
-
-</td>
 </tr>
 </table>
 
-
+<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiyare06/Jiyare06/output/github-snake-dark.svg" />
 <img src="https://raw.githubusercontent.com/Jiyare06/Jiyare06/output/github-snake.svg" width="100%" alt="A snake eating my GitHub contributions, which grow back" />
 </picture>
