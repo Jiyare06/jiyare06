@@ -68,12 +68,7 @@ Includes **analytics and moderation dashboards**, JWT auth and ImageKit image op
 </tr>
 </table>
 
-### Practice
 
-<a href="https://leetcode.com/u/AhDTEhy2fo/"><img src="https://leetcard.jacoblin.cool/AhDTEhy2fo?theme=dark&font=Inter&ext=heatmap" width="380" alt="LeetCode stats: problems solved by difficulty and submission heatmap" /></a>
-<a href="https://codeforces.com/profile/shreyansh_singh"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=shreyansh_singh&theme=dark" width="380" alt="Codeforces stats: Specialist, rating 1446" /></a>
-
-<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiyare06/Jiyare06/output/github-snake-dark.svg" />
 <img src="https://raw.githubusercontent.com/Jiyare06/Jiyare06/output/github-snake.svg" width="100%" alt="A snake eating my GitHub contributions, which grow back" />
 </picture>
